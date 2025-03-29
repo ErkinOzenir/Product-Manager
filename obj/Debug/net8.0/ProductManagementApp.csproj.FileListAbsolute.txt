@@ -156,3 +156,4 @@ C:\Users\alioz\Рабочий стол\C# Web App\ProductManagementApp\ProductMa
 C:\Users\alioz\Рабочий стол\C# Web App\ProductManagementApp\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.csproj.AssemblyReference.cache
 C:\Users\alioz\Рабочий стол\C# Web App\ProductManagementApp\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alioz\Рабочий стол\C# Web App\ProductManagementApp\ProductManagementApp\obj\Debug\net8.0\ProductM.8C65942D.Up2Date
+C:\Users\alioz\Рабочий стол\C# Web App\ProductManagementApp\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.sourcelink.json
